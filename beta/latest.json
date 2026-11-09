@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "# Void Runner: Signal Break — 0.1.5\n\n## Beta Flight Update\n\n- New animated startup loading screen",
-  "pub_date": "2026-11-09T11:15:09.916Z",
+  "version": "0.1.7",
+  "notes": "# Void Runner: Signal Break — 0.1.7\n\n## Beta Flight Update\n\n- test",
+  "pub_date": "2026-11-09T11:39:37.991Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROUQyb1JOcG1Ka2preGtJckVwQ2lzTExUTisxOFJjMXB2cThUVVIzcFdSWFJDcGVPODA2QTJ2WlZCUCs3cE1mQVh6UUovcVJSejgxSGp5LzdhUXdOZktMSzBsKyt0NWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIyOTA4CWZpbGU6Vm9pZCBSdW5uZXIgU2lnbmFsIEJyZWFrXzAuMS41X3g2NC1zZXR1cC5leGUKRjY1WE9vUnV0eHQrQml5NVpWT1RQUGFrdzJEMFNyRk43bkt3a2FMb1ZHZUcxdHk4NjUwUWpxT291d3dVRGhKZjBEb3FtaFJUUUYxTmdMZGJhTnRLQXc9PQo=",
-      "url": "https://github.com/hustlersempireholdings/void-runner-updates/releases/download/v0.1.5-beta/Void.Runner.Signal.Break_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROUQyb1JOcG1Ka2xYc3pmb2R2eFpVQmpIOURXUU1Mazh4TXVBckpOVWg3K2lZL1Z1eHZWcG1FR1RvcHVFd0JxdjV5MjlQS0tPeW80WE52eXdyUDRTREgxRGdYNitIcndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI0Mzc2CWZpbGU6Vm9pZCBSdW5uZXIgU2lnbmFsIEJyZWFrXzAuMS43X3g2NC1zZXR1cC5leGUKaTJES0prcG1sWEJJVHE0dzdOaG1naCsrUW5lMEI5dzFpM0RMenQ3V1krMVVrVVhrS2I2M1BROUp0cGIyTG5rSE13bUt1blBWNXFFWkE5VW9mSTRmQ0E9PQo=",
+      "url": "https://github.com/hustlersempireholdings/void-runner-updates/releases/download/v0.1.7-beta/Void.Runner.Signal.Break_0.1.7_x64-setup.exe"
     }
   }
 }
